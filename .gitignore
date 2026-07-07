@@ -1,0 +1,20 @@
+# Backup files
+*.bak
+*.orig
+
+# Package artifacts
+*.mpackage
+*.zip
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Mudlet runtime files (generated at runtime)
+*.lua.bak
+GUIframeSave.lua

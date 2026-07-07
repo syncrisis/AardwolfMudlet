@@ -1,0 +1,391 @@
+[
+  {
+    "subdir": "core",
+    "filename": "unnamed.lua",
+    "name": "aard (group init)",
+    "group_path": [
+      "aard"
+    ],
+    "events": [],
+    "group_init": true
+  },
+  {
+    "subdir": "core",
+    "filename": "onsysdatasendrequest.lua",
+    "name": "onSysDataSendRequest",
+    "group_path": [
+      "aard"
+    ],
+    "events": [
+      "sysDataSendRequest"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "core",
+    "filename": "cssman.lua",
+    "name": "CSSMan",
+    "group_path": [
+      "aard"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "core",
+    "filename": "tablekeydelete.lua",
+    "name": "TableKeyDelete",
+    "group_path": [
+      "aard"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "core",
+    "filename": "config.lua",
+    "name": "config",
+    "group_path": [
+      "aard"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "core",
+    "filename": "guiframe.lua",
+    "name": "guiFrame",
+    "group_path": [
+      "aard"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "core",
+    "filename": "guiload.lua",
+    "name": "guiLoad",
+    "group_path": [
+      "aard"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "core",
+    "filename": "oningame.lua",
+    "name": "onInGame",
+    "group_path": [
+      "aard"
+    ],
+    "events": [
+      "inGame"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "tracking",
+    "filename": "unnamed.lua",
+    "name": "adt (group init)",
+    "group_path": [
+      "aard",
+      "adt"
+    ],
+    "events": [],
+    "group_init": true
+  },
+  {
+    "subdir": "tracking",
+    "filename": "adt_pup_level_death.lua",
+    "name": "adt pup level death",
+    "group_path": [
+      "aard",
+      "adt"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "unnamed.lua",
+    "name": "aardMap (group init)",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": true
+  },
+  {
+    "subdir": "mapper",
+    "filename": "init_map.lua",
+    "name": "init_map",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "labeladjustment.lua",
+    "name": "labelAdjustment",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "tools.lua",
+    "name": "tools",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "mapaddons.lua",
+    "name": "mapAddons",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "rooms.lua",
+    "name": "rooms",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "speedwalk.lua",
+    "name": "speedwalk",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "areas.lua",
+    "name": "areas",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "exits.lua",
+    "name": "exits",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "sectors.lua",
+    "name": "sectors",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "areaindex.lua",
+    "name": "areaIndex",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "coordrun.lua",
+    "name": "coordrun",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "mapper",
+    "filename": "questinfo.lua",
+    "name": "questinfo",
+    "group_path": [
+      "aard",
+      "aardMap"
+    ],
+    "events": [],
+    "group_init": false
+  },
+  {
+    "subdir": "gmcp",
+    "filename": "onchannel.lua",
+    "name": "onChannel",
+    "group_path": [
+      "aard",
+      "gmcp"
+    ],
+    "events": [
+      "gmcp.comm.channel"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "gmcp",
+    "filename": "onsectors.lua",
+    "name": "onSectors",
+    "group_path": [
+      "aard",
+      "gmcp"
+    ],
+    "events": [
+      "gmcp.room.sectors"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "gmcp",
+    "filename": "onstatus.lua",
+    "name": "onStatus",
+    "group_path": [
+      "aard",
+      "gmcp"
+    ],
+    "events": [
+      "gmcp.char.status"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "gmcp",
+    "filename": "ongroup.lua",
+    "name": "onGroup",
+    "group_path": [
+      "aard",
+      "gmcp"
+    ],
+    "events": [
+      "gmcp.group"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "gmcp",
+    "filename": "onquest.lua",
+    "name": "onQuest",
+    "group_path": [
+      "aard",
+      "gmcp"
+    ],
+    "events": [
+      "gmcp.comm.quest"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "gmcp",
+    "filename": "onvitals.lua",
+    "name": "onVitals",
+    "group_path": [
+      "aard",
+      "gmcp"
+    ],
+    "events": [
+      "gmcp.char.vitals",
+      "gmcp.char.maxstats"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "gmcp",
+    "filename": "onroom.lua",
+    "name": "onRoom",
+    "group_path": [
+      "aard",
+      "gmcp"
+    ],
+    "events": [
+      "gmcp.room"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "gmcp",
+    "filename": "ontick.lua",
+    "name": "onTick",
+    "group_path": [
+      "aard",
+      "gmcp"
+    ],
+    "events": [
+      "gmcp.comm.tick"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "gmcp",
+    "filename": "onname.lua",
+    "name": "onName",
+    "group_path": [
+      "aard",
+      "gmcp"
+    ],
+    "events": [
+      "gmcp.char.base"
+    ],
+    "group_init": false
+  },
+  {
+    "subdir": "gui",
+    "filename": "unnamed.lua",
+    "name": "favMenu (group init)",
+    "group_path": [
+      "aard",
+      "favMenu"
+    ],
+    "events": [],
+    "group_init": true
+  },
+  {
+    "subdir": "gui",
+    "filename": "flyout.lua",
+    "name": "flyout",
+    "group_path": [
+      "aard",
+      "favMenu"
+    ],
+    "events": [],
+    "group_init": false
+  }
+]
