@@ -181,10 +181,14 @@ registerAnonymousEventHandler(
 					GUIframe.loadSettings()
 					GUIframe.activate("All")
 					styleLoad()--set scrollbar stylesheet
-        			local mapw = 232
-        			local maph = 255
-        			minimap = Geyser.MiniConsole:new({name="minimap",x=0,y=0,width=mapw,height=maph,color="black",font="Source Code Pro Black",fontSize=10})
-        			minimapsnap()
+        		local mapw = 232
+        		local maph = 255
+        		-- Free-floating minimap with drag handle
+        		asciiContainer = Geyser.Container:new({name='asciiContainer', x='54%', y='72%', width=mapw, height=maph})
+        		local dragBar = Geyser.Label:new({name='asciiDragBar', x=0, y=0, width='100%', height=12, color='#444444', message='<center>ASCII Map (drag)</center>'}, asciiContainer)
+        		dragBar:setMoveCallback(function() local mx, my = getMousePosition() asciiContainer:move(mx, my) end)
+        		minimap = Geyser.MiniConsole:new({name="minimap",x=0,y=12,width='100%',height='100%-12px',color="black",font="Source Code Pro Black",fontSize=10}, asciiContainer)
+        		minimapsnap()
 					if (aard.map.enable) then aard:init_map() end
 					aard.init = true
 					aard.log:info("Scripts initialized")

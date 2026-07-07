@@ -2,26 +2,20 @@
 -- Group: aard > aardMap
 
 function minimapsnap()
-	local mapw = 232
-	local maph = 255
-	local mapx = 800
-	local mapy = 0
-  if GUIframe.tabCoords.topRightTabs then
-		mapx = GUIframe.tabCoords.topRightTabs.x - mapw - 22
-		mapy = GUIframe.tabCoords.topRightTabs.y
-	end
-	
-  if minimap then
-		minimap:move(mapx,mapy)
-		
-		if gInfo then
+  if minimap and asciiContainer then
+    -- Use container's screen position since minimap is inside it
+    local mapx = tonumber(asciiContainer.x:gsub("px","")) or 800
+    local mapy = tonumber(asciiContainer.y:gsub("px","")) or 0
+    local mapw = tonumber(asciiContainer.width:gsub("px","")) or 232
+    local maph = tonumber(asciiContainer.height:gsub("px","")) or 255
+    
+    if gInfo then
       local barW = 150
-      local gx = minimap.x:gsub("px","")+(minimap.width:gsub("px","")-barW)
-      local gy = minimap.y:gsub("px","")+minimap.height:gsub("px","")
-      gInfo:move(gx,gy)
-		end
-		
-	end	
+      local gx = mapx + mapw - barW
+      local gy = mapy + maph
+      gInfo:move(gx, gy)
+    end
+  end
 end
 
 function mapStarter()
