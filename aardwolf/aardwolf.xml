@@ -1,33 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE MudletPackage>
+<?xml version='1.0' encoding='UTF-8'?>
 <MudletPackage version="1.001">
 	<TriggerPackage>
 		<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 			<name>aard</name>
-			<script></script>
+			<script />
 			<triggerType>0</triggerType>
 			<conditonLineDelta>0</conditonLineDelta>
 			<mStayOpen>0</mStayOpen>
-			<mCommand></mCommand>
-			<packageName></packageName>
+			<mCommand />
+			<packageName />
 			<mFgColor>#ff0000</mFgColor>
 			<mBgColor>#ffff00</mBgColor>
-			<mSoundFile></mSoundFile>
+			<mSoundFile />
 			<colorTriggerFgColor>#000000</colorTriggerFgColor>
 			<colorTriggerBgColor>#000000</colorTriggerBgColor>
 			<regexCodeList />
 			<regexCodePropertyList />
 			<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 				<name>adt</name>
-				<script></script>
+				<script />
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList />
@@ -52,11 +51,11 @@ copy()
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>1</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -80,11 +79,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -100,11 +99,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -120,11 +119,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -140,11 +139,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -160,11 +159,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -180,11 +179,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -200,11 +199,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -220,11 +219,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -240,11 +239,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -260,11 +259,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -280,11 +279,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -300,11 +299,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -320,11 +319,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -340,11 +339,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -360,11 +359,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -380,11 +379,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -400,11 +399,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -420,11 +419,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -440,11 +439,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -460,11 +459,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -480,11 +479,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -500,11 +499,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -520,11 +519,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -540,11 +539,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -560,11 +559,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -580,11 +579,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -600,11 +599,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -620,11 +619,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -640,11 +639,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -660,11 +659,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -680,11 +679,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -700,11 +699,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -720,11 +719,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -740,11 +739,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -760,11 +759,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -780,11 +779,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -800,11 +799,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -820,11 +819,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -840,11 +839,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -860,11 +859,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -880,11 +879,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -900,11 +899,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -920,11 +919,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -940,11 +939,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -960,11 +959,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -980,11 +979,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1000,11 +999,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1020,11 +1019,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1040,11 +1039,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1060,11 +1059,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1080,11 +1079,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1100,11 +1099,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1120,11 +1119,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1140,11 +1139,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1160,11 +1159,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1180,11 +1179,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1200,11 +1199,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1220,11 +1219,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1240,11 +1239,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1260,11 +1259,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1280,11 +1279,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1300,11 +1299,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1320,11 +1319,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1340,11 +1339,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1360,11 +1359,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1380,11 +1379,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1400,11 +1399,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1420,11 +1419,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1440,11 +1439,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1460,11 +1459,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1480,11 +1479,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1500,11 +1499,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1520,11 +1519,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1540,11 +1539,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1560,11 +1559,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1580,11 +1579,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1600,11 +1599,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1620,11 +1619,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1640,11 +1639,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1660,11 +1659,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1680,11 +1679,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1700,11 +1699,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1720,11 +1719,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1740,11 +1739,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1760,11 +1759,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1780,11 +1779,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1800,11 +1799,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1820,11 +1819,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1840,11 +1839,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1860,11 +1859,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1880,11 +1879,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1900,11 +1899,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1920,11 +1919,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1940,11 +1939,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1960,11 +1959,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -1980,11 +1979,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -2000,11 +1999,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -2020,11 +2019,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -2040,11 +2039,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -2062,11 +2061,11 @@ end</script>
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2084,11 +2083,11 @@ end</script>
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>20</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2111,11 +2110,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2131,11 +2130,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2182,11 +2181,11 @@ end</script>
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2230,11 +2229,11 @@ Health:setValue(aard.hp, aard.maxhp,"&lt;b&gt; &amp;nbsp; "..aard.hp.."hp | "..s
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2296,11 +2295,11 @@ Mana:setValue(aard.mp, aard.maxmp,"&lt;b&gt; &amp;nbsp; "..aard.mp.."mp | "..str
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2333,11 +2332,11 @@ Moves:setValue(aard.mv, aard.maxmv,"&lt;b&gt; &amp;nbsp; "..aard.mv.."mv | "..st
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2380,11 +2379,11 @@ end</script>
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2405,11 +2404,11 @@ aard.qTimeNOexp()</script>
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2428,11 +2427,11 @@ end</script>
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2466,11 +2465,11 @@ onTick()
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2486,11 +2485,11 @@ onTick()
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2598,11 +2597,11 @@ timerID = tempTimer(2, [[pupreport()]])--report in 2 seconds, all level up data 
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>9</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList>
@@ -2623,11 +2622,11 @@ timerID = tempTimer(2, [[pupreport()]])--report in 2 seconds, all level up data 
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2649,11 +2648,11 @@ timerID = tempTimer(2, [[pupreport()]])--report in 2 seconds, all level up data 
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2676,11 +2675,11 @@ timerID = tempTimer(2, [[pupreport()]])--report in 2 seconds, all level up data 
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2703,11 +2702,11 @@ timerID = tempTimer(2, [[pupreport()]])--report in 2 seconds, all level up data 
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2741,11 +2740,11 @@ end
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2758,15 +2757,15 @@ end
 			</Trigger>
 			<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 				<name>PlayerNotes</name>
-				<script></script>
+				<script />
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList />
@@ -2801,11 +2800,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2818,15 +2817,15 @@ end</script>
 			</TriggerGroup>
 			<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 				<name>captures/gags</name>
-				<script></script>
+				<script />
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList />
@@ -2842,11 +2841,11 @@ aard.audioAlert("Alert")</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2871,11 +2870,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2898,11 +2897,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2922,11 +2921,11 @@ appendBuffer("Group")</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2948,11 +2947,11 @@ appendBuffer("All")
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -2976,11 +2975,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#008080</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3002,11 +3001,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3045,11 +3044,11 @@ aard.audioAlert("Quest")</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3061,15 +3060,15 @@ aard.audioAlert("Quest")</script>
 				</Trigger>
 				<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 					<name>Epics</name>
-					<script></script>
+					<script />
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList />
@@ -3091,11 +3090,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -3118,11 +3117,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -3192,11 +3191,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -3210,15 +3209,15 @@ end</script>
 			</TriggerGroup>
 			<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 				<name>map quest cp gq</name>
-				<script></script>
+				<script />
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList />
@@ -3240,11 +3239,11 @@ disableTrigger("wheretarget")</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3256,15 +3255,15 @@ disableTrigger("wheretarget")</script>
 				</Trigger>
 				<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="yes" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 					<name>where</name>
-					<script></script>
+					<script />
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>30</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3289,11 +3288,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -3313,11 +3312,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -3352,11 +3351,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3385,11 +3384,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3458,11 +3457,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3486,36 +3485,72 @@ local areaInfo = aard.areaInfo[aard.qArea]
 if areaInfo then
   local zone = areaInfo.zone
   local areaID = lookupAreaID(zone)
-  local targetRoom = nil
-  local lowestCost = 9000
+  local candidates = {}
+  local seen = {}
 
-  if areaID then
-    local rooms = getAreaRooms(areaID)
-    if rooms then
-      -- getAreaRooms() returns a hash: roomID -&gt; roomName.
-      -- Prefer the actual quest room captured by qRoom when the map has an exact match.
-      for roomID, roomName in pairs(rooms) do
-        local numericRoomID = tonumber(roomID)
-        if numericRoomID and numericRoomID &gt; 0 and aard.qRoom and roomName == aard.qRoom then
-          local pathable, cost = getPath(aard.map.current_room, numericRoomID)
-          if pathable == true and cost &lt; lowestCost then
-            lowestCost = cost
-            targetRoom = numericRoomID
-          elseif not targetRoom then
-            targetRoom = numericRoomID
-          end
+  local function considerRoom(roomID)
+    local numericRoomID = tonumber(roomID)
+    if not numericRoomID or numericRoomID &lt;= 0 or seen[numericRoomID] then return end
+    if areaID and getRoomArea(numericRoomID) ~= areaID then return end
+
+    local pathable, cost = getPath(aard.map.current_room, numericRoomID)
+    if pathable ~= true then cost = 999999 end
+    table.insert(candidates, {id = numericRoomID, cost = cost, pathable = pathable == true})
+    seen[numericRoomID] = true
+  end
+
+  if aard.qRoom then
+    -- Use the same exact room lookup path as `rf &lt;room&gt;`.
+    local exactRooms = aard.searchRoomExact(aard.qRoom)
+    if type(exactRooms) == "table" then
+      for key, value in pairs(exactRooms) do
+        if tonumber(key) then
+          considerRoom(key)
+        else
+          considerRoom(value)
         end
       end
     end
   end
 
+  if #candidates == 0 and areaID then
+    local rooms = getAreaRooms(areaID)
+    if rooms then
+      -- Fallback for map APIs that expose area rooms directly.
+      for key, value in pairs(rooms) do
+        if tonumber(key) and aard.qRoom and value == aard.qRoom then
+          considerRoom(key)
+        elseif tonumber(value) and aard.qRoom and getRoomName(value) == aard.qRoom then
+          considerRoom(value)
+        end
+      end
+    end
+  end
+
+  table.sort(candidates, function(a, b)
+    if a.pathable ~= b.pathable then return a.pathable end
+    if a.cost ~= b.cost then return a.cost &lt; b.cost end
+    return a.id &lt; b.id
+  end)
+
   echo("\n  Quest area: ["..aard.qArea.."] ")
-  if targetRoom then
-    echoLink("|cFF0000"..targetRoom, [[expandAlias("runto ]]..targetRoom..[[")]], "runto "..targetRoom, true)
+  if #candidates &gt; 0 then
+    local limit = math.min(#candidates, 5)
+    for i = 1, limit do
+      if i &gt; 1 then echo(" ") end
+      local roomID = candidates[i].id
+      cechoLink("&lt;red&gt;"..roomID, [[expandAlias("runto ]]..roomID..[[")]], "runto "..roomID, true)
+    end
+    if #candidates &gt; 1 then
+      cecho(" &lt;DarkSlateGrey&gt;(nearest first)")
+    end
+    if #candidates &gt; limit then
+      cecho(" &lt;DarkSlateGrey&gt;+"..(#candidates - limit).." more")
+    end
   else
     -- Quest hint rooms are sometimes vicinity labels, not exact Mudlet room names.
     -- Fall back to Aardwolf's area speedwalk, e.g. "runto Kimr's Farm".
-    echoLink("|cFF0000area", [[expandAlias("runto ]]..aard.qArea..[[")]], "runto "..aard.qArea, true)
+    cechoLink("&lt;red&gt;area", [[expandAlias("runto ]]..aard.qArea..[[")]], "runto "..aard.qArea, true)
   end
 else
   echo("\nArea Not found.")
@@ -3523,11 +3558,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3547,11 +3582,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3569,11 +3604,11 @@ end</script>
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>0</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3588,30 +3623,30 @@ end</script>
 			</TriggerGroup>
 			<TriggerGroup isActive="no" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 				<name>itemDB</name>
-				<script></script>
+				<script />
 				<triggerType>0</triggerType>
 				<conditonLineDelta>0</conditonLineDelta>
 				<mStayOpen>0</mStayOpen>
-				<mCommand></mCommand>
-				<packageName></packageName>
+				<mCommand />
+				<packageName />
 				<mFgColor>#ff0000</mFgColor>
 				<mBgColor>#ffff00</mBgColor>
-				<mSoundFile></mSoundFile>
+				<mSoundFile />
 				<colorTriggerFgColor>#000000</colorTriggerFgColor>
 				<colorTriggerBgColor>#000000</colorTriggerBgColor>
 				<regexCodeList />
 				<regexCodePropertyList />
 				<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 					<name>item</name>
-					<script></script>
+					<script />
 					<triggerType>0</triggerType>
 					<conditonLineDelta>0</conditonLineDelta>
 					<mStayOpen>50</mStayOpen>
-					<mCommand></mCommand>
-					<packageName></packageName>
+					<mCommand />
+					<packageName />
 					<mFgColor>#ff0000</mFgColor>
 					<mBgColor>#ffff00</mBgColor>
-					<mSoundFile></mSoundFile>
+					<mSoundFile />
 					<colorTriggerFgColor>#000000</colorTriggerFgColor>
 					<colorTriggerBgColor>#000000</colorTriggerBgColor>
 					<regexCodeList>
@@ -3893,11 +3928,11 @@ echo("\n"..replaced.."@w\n")
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -3939,11 +3974,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -3960,11 +3995,11 @@ echo("\nFlags:"..aard.itemflags)</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -3985,11 +4020,11 @@ echo("\nhealmn:"..v2)</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -4006,11 +4041,11 @@ echo("\nWeight%:"..v)</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -4031,11 +4066,11 @@ end</script>
 						<triggerType>0</triggerType>
 						<conditonLineDelta>0</conditonLineDelta>
 						<mStayOpen>0</mStayOpen>
-						<mCommand></mCommand>
-						<packageName></packageName>
+						<mCommand />
+						<packageName />
 						<mFgColor>#ff0000</mFgColor>
 						<mBgColor>#ffff00</mBgColor>
-						<mSoundFile></mSoundFile>
+						<mSoundFile />
 						<colorTriggerFgColor>#000000</colorTriggerFgColor>
 						<colorTriggerBgColor>#000000</colorTriggerBgColor>
 						<regexCodeList>
@@ -4053,16 +4088,16 @@ end</script>
 	<AliasPackage>
 		<AliasGroup isActive="yes" isFolder="yes">
 			<name>aard</name>
-			<script></script>
-			<command></command>
-			<packageName></packageName>
-			<regex></regex>
+			<script />
+			<command />
+			<packageName />
+			<regex />
 			<Alias isActive="yes" isFolder="no">
 				<name>gui</name>
 				<script>--type gui to reload your the gui.
 guiLoad()</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^gui$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4160,8 +4195,8 @@ echo("\n")
 
 setFgColor(192,192,192)
 echo("\n")</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^(?:vc|vco|vcon|vconf|vconfi|vconfig)(?: (\w+) (.*))*$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4179,23 +4214,23 @@ echo("\n\n")
 decho("  &lt;51,102,255&gt;- &lt;192,192,192&gt;"..matches[2]..": ")
 dechoLink("&lt;51,102,255&gt;"..aard.playerdb[matches[2]], "printCmdLine'playernote "..matches[2].." "..aard.playerdb[matches[2]].."'", "Click to edit Note for this Player.", true)
 echo("\n\n")</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^playernote(?: (\w+) (.*))*$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
 				<name>guisave</name>
 				<script>--type guisave to save your UI positioning.
 GUIframe.saveSettings()</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^guisave$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
 				<name>startermap</name>
 				<script>mapStarter()--call the mapStarter function which makes a backup, and if backup successfull loads the starter map.</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^startermap$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4210,8 +4245,8 @@ else
   echo("Map saved to: "..saveString.."\n")
 	loadMap(getMudletHomeDir().."/aardwolf/"..matches[2])
 end</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^loadmap (.*)$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4226,8 +4261,8 @@ end
 
 --lua display(getMapUserData("last_modified"))
 --lua display(getAllMapUserData())</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^savemap (.*)$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4238,8 +4273,8 @@ end
   aard.other = true
   send("enter "..matches[2],false)
 end</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^enter (.*)$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4250,8 +4285,8 @@ end</script>
 else--argument/target missing
 	send("where",false)
 end</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^(?:where|wher|whe) (.*)$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4259,8 +4294,8 @@ end</script>
 				<script>aard.roomFind(matches[2])
 --aard.roomFind(tostring(room_id))
 --aard.roomFindArea</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^rf (.*)$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4268,8 +4303,8 @@ end</script>
 				<script>aard.roomFindArea(matches[2])
 --aard.roomFind(tostring(room_id))
 --aard.roomFindArea</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^rfa (.*)$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4295,8 +4330,8 @@ elseif string.match("the partroxis", matches[2]:lower()) then
 else
 	send("runto "..matches[2],false)
 end</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^(?:runto|runt|rt) (.*)$</regex>
 			</Alias>
 			<Alias isActive="yes" isFolder="no">
@@ -4311,8 +4346,8 @@ elseif string.match("imperial nation", matches[2]) then
 else
 	echo("gt no vidblain match for: "..matches[2])
 end</script>
-				<command></command>
-				<packageName></packageName>
+				<command />
+				<packageName />
 				<regex>^vidblain (.*)$</regex>
 			</Alias>
 		</AliasGroup>
@@ -4321,12 +4356,12 @@ end</script>
 	<ScriptPackage>
 		<ScriptGroup isActive="yes" isFolder="yes">
 			<name>aard</name>
-			<packageName></packageName>
+			<packageName />
 			<script>dofile(getMudletHomeDir().."/aardwolf/scripts/core/unnamed.lua")</script>
 			<eventHandlerList />
 			<Script isActive="yes" isFolder="no">
 				<name>onSysDataSendRequest</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/core/onsysdatasendrequest.lua")</script>
 				<eventHandlerList>
 					<string>sysDataSendRequest</string>
@@ -4334,37 +4369,37 @@ end</script>
 			</Script>
 			<Script isActive="yes" isFolder="no">
 				<name>CSSMan</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/core/cssman.lua")</script>
 				<eventHandlerList />
 			</Script>
 			<Script isActive="yes" isFolder="no">
 				<name>TableKeyDelete</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/core/tablekeydelete.lua")</script>
 				<eventHandlerList />
 			</Script>
 			<Script isActive="yes" isFolder="no">
 				<name>config</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/core/config.lua")</script>
 				<eventHandlerList />
 			</Script>
 			<Script isActive="yes" isFolder="no">
 				<name>guiFrame</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/core/guiframe.lua")</script>
 				<eventHandlerList />
 			</Script>
 			<Script isActive="yes" isFolder="no">
 				<name>guiLoad</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/core/guiload.lua")</script>
 				<eventHandlerList />
 			</Script>
 			<Script isActive="yes" isFolder="no">
 				<name>onInGame</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/core/oningame.lua")</script>
 				<eventHandlerList>
 					<string>inGame</string>
@@ -4372,102 +4407,102 @@ end</script>
 			</Script>
 			<ScriptGroup isActive="yes" isFolder="yes">
 				<name>adt</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/tracking/unnamed.lua")</script>
 				<eventHandlerList />
 				<Script isActive="yes" isFolder="no">
 					<name>adt pup level death</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/tracking/adt_pup_level_death.lua")</script>
 					<eventHandlerList />
 				</Script>
 			</ScriptGroup>
 			<ScriptGroup isActive="yes" isFolder="yes">
 				<name>aardMap</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/unnamed.lua")</script>
 				<eventHandlerList />
 				<Script isActive="yes" isFolder="no">
 					<name>init_map</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/init_map.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>labelAdjustment</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/labeladjustment.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>tools</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/tools.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>mapAddons</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/mapaddons.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>rooms</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/rooms.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>speedwalk</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/speedwalk.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>areas</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/areas.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>exits</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/exits.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>sectors</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/sectors.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>areaIndex</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/areaindex.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>coordrun</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/coordrun.lua")</script>
 					<eventHandlerList />
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>questinfo</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/mapper/questinfo.lua")</script>
 					<eventHandlerList />
 				</Script>
 			</ScriptGroup>
 			<ScriptGroup isActive="yes" isFolder="yes">
 				<name>gmcp</name>
-				<packageName></packageName>
-				<script></script>
+				<packageName />
+				<script />
 				<eventHandlerList />
 				<Script isActive="yes" isFolder="no">
 					<name>onChannel</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gmcp/onchannel.lua")</script>
 					<eventHandlerList>
 						<string>gmcp.comm.channel</string>
@@ -4475,7 +4510,7 @@ end</script>
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>onSectors</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gmcp/onsectors.lua")</script>
 					<eventHandlerList>
 						<string>gmcp.room.sectors</string>
@@ -4483,7 +4518,7 @@ end</script>
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>onStatus</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gmcp/onstatus.lua")</script>
 					<eventHandlerList>
 						<string>gmcp.char.status</string>
@@ -4491,7 +4526,7 @@ end</script>
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>onGroup</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gmcp/ongroup.lua")</script>
 					<eventHandlerList>
 						<string>gmcp.group</string>
@@ -4499,7 +4534,7 @@ end</script>
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>onQuest</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gmcp/onquest.lua")</script>
 					<eventHandlerList>
 						<string>gmcp.comm.quest</string>
@@ -4507,7 +4542,7 @@ end</script>
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>onVitals</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gmcp/onvitals.lua")</script>
 					<eventHandlerList>
 						<string>gmcp.char.vitals</string>
@@ -4516,7 +4551,7 @@ end</script>
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>onRoom</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gmcp/onroom.lua")</script>
 					<eventHandlerList>
 						<string>gmcp.room</string>
@@ -4524,7 +4559,7 @@ end</script>
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>onTick</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gmcp/ontick.lua")</script>
 					<eventHandlerList>
 						<string>gmcp.comm.tick</string>
@@ -4532,7 +4567,7 @@ end</script>
 				</Script>
 				<Script isActive="yes" isFolder="no">
 					<name>onName</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gmcp/onname.lua")</script>
 					<eventHandlerList>
 						<string>gmcp.char.base</string>
@@ -4541,12 +4576,12 @@ end</script>
 			</ScriptGroup>
 			<ScriptGroup isActive="yes" isFolder="yes">
 				<name>favMenu</name>
-				<packageName></packageName>
+				<packageName />
 				<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gui/unnamed.lua")</script>
 				<eventHandlerList />
 				<Script isActive="yes" isFolder="no">
 					<name>flyout</name>
-					<packageName></packageName>
+					<packageName />
 					<script>dofile(getMudletHomeDir().."/aardwolf/scripts/gui/flyout.lua")</script>
 					<eventHandlerList />
 				</Script>
@@ -4556,14 +4591,14 @@ end</script>
 	<KeyPackage>
 		<KeyGroup isActive="yes" isFolder="yes">
 			<name>aard</name>
-			<packageName></packageName>
-			<script></script>
-			<command></command>
+			<packageName />
+			<script />
+			<command />
 			<keyCode>-1</keyCode>
 			<keyModifier>0</keyModifier>
 			<Key isActive="yes" isFolder="no">
 				<name>/ health potion</name>
-				<packageName></packageName>
+				<packageName />
 				<script>--to change the potion used, change "config" in Scripts section.
 send("get '"..aard.config["hpot"].."' "..aard.config["pbag"]..";quaf '"..aard.config["hpot"].."'",true)
 if aard.hpot &gt; 0 then
@@ -4571,13 +4606,13 @@ if aard.hpot &gt; 0 then
 end
 local hp_pct = tostring(getPercent(aard.hp, aard.maxhp))
 Health:setValue(aard.hp, aard.maxhp,"&lt;b&gt; &amp;nbsp; "..aard.hp.."hp | "..string.format("%i", hp_pct).."% &amp;nbsp; ("..aard.hpot..")&lt;/b&gt;")</script>
-				<command></command>
+				<command />
 				<keyCode>47</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>shift / health potion</name>
-				<packageName></packageName>
+				<packageName />
 				<script>--to change the potion used, change "config" in Scripts section.
 send("get incomplete "..aard.config["pbag"]..";quaf incomplete",true)
 if aard.hpot &gt; 0 then
@@ -4585,13 +4620,13 @@ if aard.hpot &gt; 0 then
 end
 local hp_pct = tostring(getPercent(aard.hp, aard.maxhp))
 Health:setValue(aard.hp, aard.maxhp,"&lt;b&gt; &amp;nbsp; "..aard.hp.."hp | "..string.format("%i", hp_pct).."% &amp;nbsp; ("..aard.hpot..")&lt;/b&gt;")</script>
-				<command></command>
+				<command />
 				<keyCode>47</keyCode>
 				<keyModifier>570425344</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>* mana potion</name>
-				<packageName></packageName>
+				<packageName />
 				<script>--to change the potion used, change "config" in Scripts section.
 send("get '"..aard.config["mpot"].."' "..aard.config["pbag"]..";quaf '"..aard.config["mpot"].."'",true)
 if aard.spot &gt; 0 then
@@ -4599,13 +4634,13 @@ if aard.spot &gt; 0 then
 end
 local mp_pct = tostring(getPercent(aard.mp, aard.maxmp))
 Mana:setValue(aard.mp, aard.maxmp,"&lt;b&gt; &amp;nbsp; "..aard.mp.."mp | "..string.format("%i", mp_pct).."% &amp;nbsp; ("..aard.spot..")&lt;/b&gt;")</script>
-				<command></command>
+				<command />
 				<keyCode>42</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>- move potion</name>
-				<packageName></packageName>
+				<packageName />
 				<script>--to change the potion used, change "config" in Scripts section.
 send("get '"..aard.config["vpot"].."' "..aard.config["pbag"]..";quaf '"..aard.config["vpot"].."'",true)
 if aard.mpot &gt; 0 then
@@ -4613,139 +4648,139 @@ if aard.mpot &gt; 0 then
 end
 local mv_pct = tostring(getPercent(aard.mv, aard.maxmv))
 Moves:setValue(aard.mv, aard.maxmv,"&lt;b&gt; &amp;nbsp; "..aard.mv.."mv | "..string.format("%i", mv_pct).."% &amp;nbsp; ("..aard.mpot..")&lt;/b&gt;")</script>
-				<command></command>
+				<command />
 				<keyCode>45</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>+ spellup / attack spell</name>
-				<packageName></packageName>
+				<packageName />
 				<script>if aard.state == 8 then
 	send(aard.config["attack1"],true)--in combat
 else	
 	send("napalm;spellup int;spellup wis;spellup luck;spellup stats;spellup",true)--out of combat
 end</script>
-				<command></command>
+				<command />
 				<keyCode>43</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>shift +   pre-spellup</name>
-				<packageName></packageName>
+				<packageName />
 				<script>send("c 'intellect fortress';c awakening;c perception;c 'self harmony';c calculation;napalm")</script>
-				<command></command>
+				<command />
 				<keyCode>43</keyCode>
 				<keyModifier>570425344</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>. scan / debuff</name>
-				<packageName></packageName>
+				<packageName />
 				<script>if aard.state == 8 then
 	send(aard.config["debuff1"],true)--in combat, debuff
 else	
 	send("scan",true)--out of combat, cleanse
 end</script>
-				<command></command>
+				<command />
 				<keyCode>46</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>7 con all / else combat</name>
-				<packageName></packageName>
+				<packageName />
 				<script>if aard.state == 8 then
 	send(aard.config["debuff2"],true)--in combat
 else	
 	send("con all",true)--out of combat
 end</script>
-				<command></command>
+				<command />
 				<keyCode>55</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>1 portal</name>
-				<packageName></packageName>
+				<packageName />
 				<script>send(aard.config["port"])</script>
-				<command></command>
+				<command />
 				<keyCode>49</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>5 Look</name>
-				<packageName></packageName>
-				<script></script>
+				<packageName />
+				<script />
 				<command>l</command>
 				<keyCode>53</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>3 Down</name>
-				<packageName></packageName>
+				<packageName />
 				<script>openDoor("down")
 send("d",true)</script>
-				<command></command>
+				<command />
 				<keyCode>51</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>9 Up</name>
-				<packageName></packageName>
+				<packageName />
 				<script>openDoor("up")
 send("u",true)</script>
-				<command></command>
+				<command />
 				<keyCode>57</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>4 West</name>
-				<packageName></packageName>
+				<packageName />
 				<script>openDoor("w")
 send("w",true)</script>
-				<command></command>
+				<command />
 				<keyCode>52</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>6 East</name>
-				<packageName></packageName>
+				<packageName />
 				<script>openDoor("e")
 send("e",true)</script>
-				<command></command>
+				<command />
 				<keyCode>54</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>2 South</name>
-				<packageName></packageName>
+				<packageName />
 				<script>openDoor("s")
 send("s",true)</script>
-				<command></command>
+				<command />
 				<keyCode>50</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>8 North</name>
-				<packageName></packageName>
+				<packageName />
 				<script>openDoor("n")
 send("n",true)</script>
-				<command></command>
+				<command />
 				<keyCode>56</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>0 key</name>
-				<packageName></packageName>
+				<packageName />
 				<script>if aard.state == 8 then	
 	send(aard.config["debuff2"],true)--in combat
 else
 	send("score",true)--out of combat
 end</script>
-				<command></command>
+				<command />
 				<keyCode>48</keyCode>
 				<keyModifier>536870912</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>F4 roomcount area</name>
-				<packageName></packageName>
+				<packageName />
 				<script>local myRoomsTable = getRooms()
 local count = count or 0
 for _ in pairs(myRoomsTable) do
@@ -4767,13 +4802,13 @@ for j, room_id in pairs(myAreaRoomsTable) do
 	end
 end
 send("explored",true)</script>
-				<command></command>
+				<command />
 				<keyCode>16777267</keyCode>
 				<keyModifier>0</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>shift+F4 print names area</name>
-				<packageName></packageName>
+				<packageName />
 				<script>local myRoomsTable = getRooms()
 local count = count or 0
 for _ in pairs(myRoomsTable) do
@@ -4797,13 +4832,13 @@ for j, room_id in pairs(myAreaRoomsTable) do
 end
 echo("\n")
 send("explored",true)</script>
-				<command></command>
+				<command />
 				<keyCode>16777267</keyCode>
 				<keyModifier>33554432</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>F5 area exits check</name>
-				<packageName></packageName>
+				<packageName />
 				<script>--I used this hotkey while checking which zones to delete for a startermap.
 --So that I could preserve parts of areas that lead to other areas. (areas that are not linked from the continents.)
 
@@ -4881,13 +4916,13 @@ else--multiple exits
 		echo("\n")
   end
 end</script>
-				<command></command>
+				<command />
 				<keyCode>16777268</keyCode>
 				<keyModifier>0</keyModifier>
 			</Key>
 			<Key isActive="no" isFolder="no">
 				<name>F7</name>
-				<packageName></packageName>
+				<packageName />
 				<script>sqlite3 = require "luasql.sqlite3"
 local env  = sqlite3.sqlite3()
 local conn = env:connect(getMudletHomeDir()..'/aardwolf/equipment.sqlite3')
@@ -4921,23 +4956,23 @@ cursor:close()
 conn:close()
 env:close()
 </script>
-				<command></command>
+				<command />
 				<keyCode>16777270</keyCode>
 				<keyModifier>0</keyModifier>
 			</Key>
 			<Key isActive="yes" isFolder="no">
 				<name>f8 portalroom</name>
-				<packageName></packageName>
+				<packageName />
 				<script>--If you are going to use a portal action that does not use the keyword "enter" then press this keybinding beforehand, to indicate your about to use a portal.
 setRoomChar(gmcp.room.info.num, "&gt;")
 aard.other = true</script>
-				<command></command>
+				<command />
 				<keyCode>16777271</keyCode>
 				<keyModifier>0</keyModifier>
 			</Key>
 		</KeyGroup>
 	</KeyPackage>
 	<HelpPackage>
-		<helpURL></helpURL>
+		<helpURL />
 	</HelpPackage>
 </MudletPackage>
